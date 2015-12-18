@@ -1,3 +1,4 @@
 ##Biodata
-Asal Daerah : Yogyakarta
+Fakultas    : Fakultas Teknologi Industri
 Jurusan     : Teknik Fisika
+Universitas : Institut Teknologi Bandung
